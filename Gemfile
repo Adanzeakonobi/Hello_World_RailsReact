@@ -17,7 +17,7 @@ gem "puma", "~> 5.0"
 
 gem 'webpacker'
 
-# gem 'react-rails'
+gem 'react-rails'
 
 # Bundle and transpile JavaScript [https://github.com/rails/jsbundling-rails]
 gem "jsbundling-rails"
